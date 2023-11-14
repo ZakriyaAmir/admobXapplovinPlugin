@@ -2285,9 +2285,29 @@ PrefabInstance:
       propertyPath: moneytext
       value: 
       objectReference: {fileID: 1045563024}
+    - target: {fileID: 1473798443534734330, guid: d0d0c30ece6ebe94d8a7e16b2b843bc1, type: 3}
+      propertyPath: admobBanner
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1473798443534734330, guid: d0d0c30ece6ebe94d8a7e16b2b843bc1, type: 3}
+      propertyPath: admobOpenAd
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1473798443534734330, guid: d0d0c30ece6ebe94d8a7e16b2b843bc1, type: 3}
+      propertyPath: admobRewarded
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1473798443534734330, guid: d0d0c30ece6ebe94d8a7e16b2b843bc1, type: 3}
+      propertyPath: admobInterstitial
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1473798443534734330, guid: d0d0c30ece6ebe94d8a7e16b2b843bc1, type: 3}
+      propertyPath: admobRewardedInterstitial
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3247063619235202457, guid: d0d0c30ece6ebe94d8a7e16b2b843bc1, type: 3}
       propertyPath: m_Name
-      value: AdsManager
+      value: AdsManager(Put this on splash screen)
       objectReference: {fileID: 0}
     - target: {fileID: 5822271271944541869, guid: d0d0c30ece6ebe94d8a7e16b2b843bc1, type: 3}
       propertyPath: m_LocalPosition.x

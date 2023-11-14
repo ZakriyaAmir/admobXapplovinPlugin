@@ -25,6 +25,8 @@ public class AdsManager : MonoBehaviour
     public bool admobRewardedInterstitial;
     public bool admobOpenAd;
 
+    [Header("Note: Applovin Max Test Ads wont work on \nmobile unless you activate 7 days test ads manually \nfrom max dashboard online")]
+
     // These ad units are configured to always serve test ads.
     [Header("Max Keys")]
     public string MaxSdkKey;
